@@ -17,6 +17,6 @@ public class Transport {
         air.move();
     }
     public void move () {
-        System.out.println("Everything can move!");
+        System.out.println("Everything can move");
     }
 }
